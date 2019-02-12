@@ -1,0 +1,17 @@
+vi:
+  layouts:
+    application:
+      title_page: "Ứng dụng mẫu"
+  static_pages:
+    help:
+      title: "Trợ giúp"
+      content: '</p>Nhận trợ giúp về Hướng dẫn Ruby on Rails tại
+        <a href="https://www.railstutorial.org/help">trang trợ giúp Hướng dẫn Rails</a>.
+        Để nhận trợ giúp về ứng dụng mẫu này, hãy xem
+        <a href="https://www.railstutorial.org/book"><em>sách Hướng dẫn về Ruby on Rails</em>
+        book</a>.</p>'
+    home:
+      title: "Ứng dụng đầu tiên"
+      content: '</p>Đây là trang chủ cho
+        <a href="https://www.railstutorial.org/">Hướng dẫn về Ruby on Rails</a>.
+        ứng dụng mẫu.</p>'
